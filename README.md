@@ -1,5 +1,12 @@
 # React ToDo App (No Build Tools)
 
+## 🌍 Deployment (GitHub Pages)
+
+This Mini-Project is Live on:
+
+>_[https://adilnvm.github.io/todo/](https://adilnvm.github.io/todo/)_
+
+
 A simple ToDo list app built with **React 18**, **TailwindCSS**, and **localStorage**.  
 This project does **not** use build tools like Webpack, Vite, or Create React App.  
 Instead, it loads React and Babel directly from a CDN for quick setup and deployment.
@@ -34,13 +41,7 @@ Instead, it loads React and Babel directly from a CDN for quick setup and deploy
 2. Open index.html directly in your browser.
 (No server or build step required 🎉)
 
-## 🌍 Deployment (GitHub Pages)
 
-This project is static and works perfectly on GitHub Pages:
-
-```text 
-https://adilnvm.github.io/todo/
-```
 
 ## 🖼️ Preview 
 <img width="812" height="569" alt="image" src="https://github.com/user-attachments/assets/b038c091-5c76-4f66-b70a-e0ed6aa08e27" />
